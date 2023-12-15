@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ELOYSTOUN">#008887</color>
+    <color name="PINQ">#E6007E</color>
+    <color name="GOLY">#009FE3</color>
+</resources>

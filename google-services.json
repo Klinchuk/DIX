@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18243227567",
+    "project_id": "dixi-4e5c7",
+    "storage_bucket": "dixi-4e5c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18243227567:android:d8a8a8da09ed1cd48ca95a",
+        "android_client_info": {
+          "package_name": "com.example.dix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp9gpZKaem7kNjUfkcjT34Dk6QXgKrc1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
